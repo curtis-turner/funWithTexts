@@ -1,0 +1,6 @@
+PySocks==1.5.3
+httplib2==0.9.1
+pytz==2015.2
+six==1.9.0
+twilio==3.8.0
+yweather==0.1
